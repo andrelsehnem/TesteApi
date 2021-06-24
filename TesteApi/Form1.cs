@@ -17,5 +17,14 @@ namespace TesteApi
             InitializeComponent();
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
+
 }
+
+
+
+//https://renatogroffe.medium.com/consumo-de-apis-em-net-core-utilizando-a-marvel-comics-api-ebe9cc858589
