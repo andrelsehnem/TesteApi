@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9ssSOyVyPnoXSSiYF9D06T4JIqvNqSwQkeQ4A/NZvf6SSA+5LeQV5+NDTh9vBJGzNU171uo41iogRvOBZ8xkcQ==",
+  "dgSpecHash": "WlGnIm4Kcqg+MVKYOKIDKYH/7PgZLobqklfaJ+Eda5GAQIA65PA2dVSSQr1mXbPjtYEjL1QZPfH/TTYuMfd3Tw==",
   "success": true,
   "projectFilePath": "E:\\Documentos\\Projetos C#\\TesteApi\\TesteApi\\TesteApi\\TesteApi.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\João\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\João\\.nuget\\packages\\refit\\6.0.38\\refit.6.0.38.nupkg.sha512",
+    "C:\\Users\\João\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

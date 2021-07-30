@@ -6,6 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
+      "TesteApi/1.0.0": {
+        "dependencies": {
+          "Newtonsoft.Json": "13.0.1",
+          "Refit": "6.0.38"
+        },
+        "runtime": {
+          "TesteApi.dll": {}
+        }
+      },
       "Newtonsoft.Json/13.0.1": {
         "runtime": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {
@@ -25,17 +34,15 @@
           }
         }
       },
-      "System.Net.Http.Json/5.0.0": {
-        "runtime": {
-          "lib/net5.0/System.Net.Http.Json.dll": {
-            "assemblyVersion": "5.0.0.0",
-            "fileVersion": "5.0.20.51904"
-          }
-        }
-      }
+      "System.Net.Http.Json/5.0.0": {}
     }
   },
   "libraries": {
+    "TesteApi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Newtonsoft.Json/13.0.1": {
       "type": "package",
       "serviceable": true,
